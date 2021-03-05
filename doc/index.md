@@ -13,6 +13,10 @@ A SQL UDF can be used when you would like to pass a parameter (fig.1) to return 
 complex calculations. The function can be saved in the database and be called upon when needed as 
 opposed to having to create the task when needed. (external source: https://www.tutorialgateway.org/user-defined-functions-in-sql/, 2021)
 
+![Fig1_FunctionParam](https://user-images.githubusercontent.com/79533828/110061642-c99d0800-7d1c-11eb-8fe5-b599bf57d370.png)
+
+Figure 1: Parameter being passed into function
+
 ### Differences between Scalar, Inline, and Multi-Statement Functions
 The difference between a Scalar function and an Inline function is that a Scalar funciton returns a single value and an Inline 
 Function returns a table data type. 
