@@ -14,5 +14,7 @@ opposed to having to create the task when needed. (external source: https://www.
 ### Differences between Scalar, Inline, and Multi-Statement Functions
 The difference between a Scalar function and an Inline function is that a Scalar funciton returns a single value and an Inline 
 Function returns a table data type. 
+What makes a Multi-Statement funciton different is that the table structure can be defined by the user. The user specifies the structure of the return table by declaring a table variable. (external source: https://database.guide/difference-between-multi-statement-table-valued-functions-inline-table-valued-functions-in-sql-server/, 2021)
 
 ## Summary
+In summary, User Defined Functions can save someone time by being saved to the database and called on later for use when needed. User Defined Functions can be created to accomplish simple to complex queries. 
