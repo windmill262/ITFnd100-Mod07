@@ -1,7 +1,7 @@
 #### Jimmy Jimenez
 #### 03/04/2021  
 #### Database Foundations
-                      **Week 7: User Defined Functions**
+**Week 7: User Defined Functions**
 
 
 ### Introduction
