@@ -3,7 +3,7 @@
 #### Database Foundations
 #### Assignment 07
 
-<p align="center" font size="10"> <b>Week 7: User Defined Functions </p></font>
+<p align="center" font size="100"> <b>Week 7: User Defined Functions </p></font>
 
 ### Introduction
 In this document I will be discussing when to use SQL User Defined Funcitons (UDF) and explain the differences between Scalar, Inline, and Multi-Statement Functions. 
